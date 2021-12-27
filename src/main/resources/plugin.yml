@@ -1,0 +1,4 @@
+name: FirstPlugin
+version: '${project.version}'
+main: me.enderform.firstplugin.FirstPlugin
+api-version: 1.18
